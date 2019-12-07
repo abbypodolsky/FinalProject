@@ -160,7 +160,7 @@ h5{
 	font-family: 'Dosis', sans-serif;
 }
 
-.button {
+#button {
 	background-color: #9c7152;
 	border: none;
 	color: white;
@@ -176,7 +176,7 @@ h5{
   	margin-right: auto;
 }
 
-.button:hover{
+#button:hover{
 	background-color: #5e7fad;
 
 }
